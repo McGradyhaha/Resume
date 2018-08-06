@@ -116,10 +116,34 @@ section:last-child {
     color: #444;
 }
 
+
 .sectionContent h2 {
     font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
     font-size: 1.5em;
     margin-bottom: -2px;
+}
+
+.sectionContentCV{
+    float: right;
+    width: 98%;
+}
+
+.sectionContentCV h1{
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.sectionContentCV h2{
+    font-size: 1em;
+    float: right;
+    width: 80%
+}
+
+.sectionContentCV ul{
+    float: right;
+    width: 98%;
+    font-size: 1em;
+    font-weight: bold;
 }
 
 .subDetails {
